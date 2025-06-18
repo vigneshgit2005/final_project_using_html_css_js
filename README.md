@@ -37,7 +37,7 @@ No installation required! Simply open the index.html file in any modern web brow
 
 For development:
 1. Clone the repository:
-   git clone https://github.com/vigneshgit2005/final_project_using_html_css_js.git
+ https://github.com/vigneshgit2005/final_project_using_html_css_js.git
 2. Open the project folder
 3. Launch index.html in your browser
 
@@ -79,8 +79,4 @@ License
 -------
 This project is open source and available under the MIT License.
 
----
-Developed by Vignesh M
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
-Twitter: https://twitter.com/yourhandle
+
